@@ -1,85 +1,35 @@
 'use client';
 
-import { ChangeEvent, useMemo, useState } from 'react';
+import { ChangeEvent, useEffect, useMemo, useState } from 'react';
 
 type Product = {
-  sku: string;
-  productName: string;
-  productType: string;
-  speed: string;
-  cableType: string;
-  length: string;
-  oemCompatibility: string;
+  'Product Type': string;
+  'Data Rate': string;
+  'Form Factor': string;
+  'Finished Good Part Number': string;
+  Description: string;
 };
 
-const products: Product[] = [
-  {
-    sku: 'CAB-1001',
-    productName: 'UltraLink Cat6 Ethernet Cable',
-    productType: 'Ethernet Cable',
-    speed: '1 Gbps',
-    cableType: 'Cat6',
-    length: '3 ft',
-    oemCompatibility: 'Cisco'
-  },
-  {
-    sku: 'CAB-1002',
-    productName: 'ProConnect Cat6a Ethernet Cable',
-    productType: 'Ethernet Cable',
-    speed: '10 Gbps',
-    cableType: 'Cat6a',
-    length: '6 ft',
-    oemCompatibility: 'Juniper'
-  },
-  {
-    sku: 'FIB-2001',
-    productName: 'FiberMax OM4 LC-LC Duplex Cable',
-    productType: 'Fiber Cable',
-    speed: '40 Gbps',
-    cableType: 'OM4',
-    length: '10 m',
-    oemCompatibility: 'Arista'
-  },
-  {
-    sku: 'DAC-3001',
-    productName: 'Twinax Passive DAC Cable',
-    productType: 'DAC Cable',
-    speed: '25 Gbps',
-    cableType: 'Twinax',
-    length: '2 m',
-    oemCompatibility: 'Cisco'
-  },
-  {
-    sku: 'AOC-4001',
-    productName: 'Active Optical Cable AOC',
-    productType: 'AOC Cable',
-    speed: '100 Gbps',
-    cableType: 'AOC',
-    length: '20 m',
-    oemCompatibility: 'NVIDIA'
-  },
-  {
-    sku: 'FIB-2002',
-    productName: 'FiberEdge OS2 LC-SC Simplex Cable',
-    productType: 'Fiber Cable',
-    speed: '10 Gbps',
-    cableType: 'OS2',
-    length: '15 m',
-    oemCompatibility: 'HPE'
-  }
-];
-
 export default function Home() {
+  const [products, setProducts] = useState<Product[]>([]);
   const [query, setQuery] = useState('');
   const [productTypeFilter, setProductTypeFilter] = useState('All');
-  const [speedFilter, setSpeedFilter] = useState('All');
-  const [cableTypeFilter, setCableTypeFilter] = useState('All');
-  const [oemFilter, setOemFilter] = useState('All');
+  const [dataRateFilter, setDataRateFilter] = useState('All');
+  const [formFactorFilter, setFormFactorFilter] = useState('All');
 
-  const productTypeOptions = ['All', ...new Set(products.map((p) => p.productType))];
-  const speedOptions = ['All', ...new Set(products.map((p) => p.speed))];
-  const cableTypeOptions = ['All', ...new Set(products.map((p) => p.cableType))];
-  const oemOptions = ['All', ...new Set(products.map((p) => p.oemCompatibility))];
+  useEffect(() => {
+    const loadProducts = async () => {
+      const response = await fetch('/api/products');
+      const data = await response.json();
+      setProducts(data);
+    };
+
+    loadProducts();
+  }, []);
+
+  const productTypeOptions = ['All', ...new Set(products.map((p) => p['Product Type']))];
+  const dataRateOptions = ['All', ...new Set(products.map((p) => p['Data Rate']))];
+  const formFactorOptions = ['All', ...new Set(products.map((p) => p['Form Factor']))];
 
   const filteredProducts = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -87,24 +37,17 @@ export default function Home() {
     return products.filter((product) => {
       const matchesQuery =
         normalizedQuery.length === 0 ||
-        product.sku.toLowerCase().includes(normalizedQuery) ||
-        product.productName.toLowerCase().includes(normalizedQuery);
-
-      const matchesProductType =
-        productTypeFilter === 'All' || product.productType === productTypeFilter;
-      const matchesSpeed = speedFilter === 'All' || product.speed === speedFilter;
-      const matchesCableType = cableTypeFilter === 'All' || product.cableType === cableTypeFilter;
-      const matchesOem = oemFilter === 'All' || product.oemCompatibility === oemFilter;
+        product['Finished Good Part Number'].toLowerCase().includes(normalizedQuery) ||
+        product.Description.toLowerCase().includes(normalizedQuery);
 
       return (
-        matchesQuery &&
-        matchesProductType &&
-        matchesSpeed &&
-        matchesCableType &&
-        matchesOem
+        (productTypeFilter === 'All' || product['Product Type'] === productTypeFilter) &&
+        (dataRateFilter === 'All' || product['Data Rate'] === dataRateFilter) &&
+        (formFactorFilter === 'All' || product['Form Factor'] === formFactorFilter) &&
+        matchesQuery
       );
     });
-  }, [query, productTypeFilter, speedFilter, cableTypeFilter, oemFilter]);
+  }, [products, query, productTypeFilter, dataRateFilter, formFactorFilter]);
 
   const onInputChange = (event: ChangeEvent<HTMLInputElement>) => {
     setQuery(event.target.value);
@@ -113,11 +56,10 @@ export default function Home() {
   return (
     <main className="container">
       <h1>Product Search Tool</h1>
-
       <section className="controls">
         <input
           type="text"
-          placeholder="Search by SKU or product name"
+          placeholder="Search by part number or description"
           value={query}
           onChange={onInputChange}
           aria-label="Search products"
@@ -137,9 +79,9 @@ export default function Home() {
           </label>
 
           <label>
-            Speed
-            <select value={speedFilter} onChange={(event) => setSpeedFilter(event.target.value)}>
-              {speedOptions.map((option) => (
+            Data Rate
+            <select value={dataRateFilter} onChange={(event) => setDataRateFilter(event.target.value)}>
+              {dataRateOptions.map((option) => (
                 <option key={option} value={option}>
                   {option}
                 </option>
@@ -148,20 +90,9 @@ export default function Home() {
           </label>
 
           <label>
-            Cable Type
-            <select value={cableTypeFilter} onChange={(event) => setCableTypeFilter(event.target.value)}>
-              {cableTypeOptions.map((option) => (
-                <option key={option} value={option}>
-                  {option}
-                </option>
-              ))}
-            </select>
-          </label>
-
-          <label>
-            OEM Compatibility
-            <select value={oemFilter} onChange={(event) => setOemFilter(event.target.value)}>
-              {oemOptions.map((option) => (
+            Form Factor
+            <select value={formFactorFilter} onChange={(event) => setFormFactorFilter(event.target.value)}>
+              {formFactorOptions.map((option) => (
                 <option key={option} value={option}>
                   {option}
                 </option>
@@ -175,30 +106,25 @@ export default function Home() {
         <table>
           <thead>
             <tr>
-              <th>SKU</th>
-              <th>Product Name</th>
               <th>Product Type</th>
-              <th>Speed</th>
-              <th>Cable Type</th>
-              <th>Length</th>
-              <th>OEM Compatibility</th>
+              <th>Data Rate</th>
+              <th>Form Factor</th>
+              <th>Finished Good Part Number</th>
+              <th>Description</th>
             </tr>
           </thead>
           <tbody>
             {filteredProducts.map((product) => (
-              <tr key={product.sku}>
-                <td>{product.sku}</td>
-                <td>{product.productName}</td>
-                <td>{product.productType}</td>
-                <td>{product.speed}</td>
-                <td>{product.cableType}</td>
-                <td>{product.length}</td>
-                <td>{product.oemCompatibility}</td>
+              <tr key={`${product['Finished Good Part Number']}-${product.Description.slice(0, 12)}`}>
+                <td>{product['Product Type']}</td>
+                <td>{product['Data Rate']}</td>
+                <td>{product['Form Factor']}</td>
+                <td>{product['Finished Good Part Number']}</td>
+                <td>{product.Description}</td>
               </tr>
             ))}
           </tbody>
         </table>
-
         {filteredProducts.length === 0 && <p className="empty-state">No products match your search.</p>}
       </section>
     </main>
