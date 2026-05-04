@@ -21,7 +21,7 @@ export default function Home() {
     const loadProducts = async () => {
       const response = await fetch('/api/products');
       const data = await response.json();
-      setProducts(data);
+      setProducts(Array.isArray(data.products) ? data.products : []);
     };
 
     loadProducts();

@@ -1,0 +1,919 @@
+[
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2VR4-CLT-A",
+    "Description": "Arista OSFP-800G-2VR4-CLT Compatible 2x 400GBase-VR4 OSFP Closed Finned Top Transceiver (Parallel MMF, 850nm, 30m OM3/50m OM4, Two MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-O800G-CLT-VR8",
+    "Description": "MSA Compatible 800GBase-VR8 OSFP Closed Finned Top 2x400G VR4 Transceiver (Parallel MMF, 850nm, 30m OM3/50m OM4, Two MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2SR4-CLT-A",
+    "Description": "Arista OSFP-800G-2SR4-CLT Compatible 2x 400GBase-SR4 OSFP Closed Finned Top Transceiver (MMF, 850nm, OM3 50m, 100m OM4, Two MPO-12 APC, DDM, C-Temp, InfiniBand NDR and Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "MMA4Z00-NS-CLT-A",
+    "Description": "Mellanox/Nvidia MMA4Z00-NS-CLT Compatible 800GBase-SR8 OSFP Closed Finned Top 2x400G Transceiver (MMF, 850nm, OM3 50m, 100m OM4, Two MPO-12 APC, DDM, C-Temp, InfiniBand NDR and Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-O800G-CLT-SR8",
+    "Description": "MSA Compatible 800GBase-SR8 OSFP Closed Finned Top 2x400G Transceiver (MMF, 850nm, OM3 50m, 100m OM4, Two MPO-12 APC, DDM, C-Temp, Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2SR4-FIN-A",
+    "Description": "Arista OSFP-800G-2SR4-FIN Compatible 2x 400GBase-SR4 OSFP Open Finned Top Transceiver (MMF, 850nm, 50m OM3, 100m OM4, Two MPO-12 APC, DDM, C-Temp, InfiniBand NDR and Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-SR8",
+    "Description": "MSA Compatible 800GBase-SR8 OSFP Open Finned Top 2x400G Transceiver (MMF, 850nm, 50m OM3, 100m OM4, Two MPO-12 APC, DDM, C-Temp, InfiniBand NDR and Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "MMA4Z00-NS-A",
+    "Description": "Nvidia MMA4Z00-NS Compatible 800GBase-SR8 OSFP Open Finned Top 2x400G Transceiver (MMF, 850nm, 50m OM3, 100m OM4, Two MPO-12 APC, DDM, C-Temp, InfiniBand NDR and Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2DR4-A",
+    "Description": "Arista OSFP-800G-2DR4 Compatible 800GBase-DR8 OSFP Closed Finned Top 2x 400G DR4 (Parallel SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2DR4-M16-A",
+    "Description": "Arista OSFP-800G-2DR4-M16 Compatible 800GBase-DR8 OSFP Closed Finned Top (SMF, 1310nm, 500m, Single MPO-16 APC, DDM, C-Temp, CMIS 5.0, InfiniBand and Ethernet)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-O800G-CLT-DR8-M16",
+    "Description": "MSA Compatible 800GBase-DR8 OSFP Closed Finned Top (SMF, 1310nm, 500m, Single MPO-16 APC, DDM, C-Temp, CMIS 5.0, InfiniBand and Ethernet)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-O800G-CLT-DR8",
+    "Description": "MSA Compatible 800GBase-DR8 OSFP Closed Finned Top 2x400G (SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0, InfiniBand and Ethernet)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "MMS4X00-NM-CLT-A",
+    "Description": "Nvidia Compatible 800GBase-DR8 OSFP Closed Finned Top 2x400G (SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0, InfiniBand and Ethernet)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "MMS4X00-NM16-A",
+    "Description": "Nvidia MMS4X00-NM16 Compatible 800GBase-DR8 OSFP Closed Finned Top (SMF, 1310nm, 500m, Single MPO-16 APC, DDM, C-Temp, CMIS 5.0, InfiniBand and Ethernet)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "OSFP-2X400G-DR4-P-A",
+    "Description": "Juniper OSFP-2X400G-DR4-P Compatible 800GBase-DR8 OSFP Open Finned Top 2x 400G DR4 (Parallel SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-DR8",
+    "Description": "MSA Compatible 800GBase-DR8 OSFP Open Finned Top 2x 400G DR4 (Parallel SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "MMS4X00-NM-A",
+    "Description": "Nvidia MMS4X00-NM Compatible 800GBase-DR8 OSFP Open Finned Top 2x 400G DR4 (Parallel SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2XDR4-CLT-A",
+    "Description": "Arista OSFP-800G-2XDR4-CLT Compatible 800GBase-DR8+ OSFP Closed Finned Top 2x 400G DR4+ (Parallel SMF, 1310nm, 2km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-O800G-CLT-DR8P",
+    "Description": "MSA Compatible 800GBase-DR8+ OSFP Closed Finned Top 2x 400G DR4+ (Parallel SMF, 1310nm, 2km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2XDR4-A",
+    "Description": "Arista OSFP-800G-2XDR4 Compatible 800GBase-DR8+ OSFP Open Finned Top 2x 400G DR4+ (Parallel SMF, 1310nm, 2km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-DR8P",
+    "Description": "MSA Compatible 800GBase-DR8+ OSFP Open Finned Top 2x 400G DR4+ (Parallel SMF, 1310nm, 2km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2PLR4-CLT-A",
+    "Description": "Arista OSFP-800G-2PLR4-CLT Compatible 800GBase-DR8++ OSFP Closed Finned Top 2x 400G DR4++ (Parallel SMF, 1310nm, 10km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-O800G-CLT-DR8PP",
+    "Description": "MSA Compatible 800GBase-DR8++ OSFP Closed Finned Top 2x 400G DR4++ (Parallel SMF, 1310nm, 10km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2PLR4-A",
+    "Description": "Arista OSFP-800G-2PLR4 Compatible 800GBase-DR8++ OSFP Open Finned Top 2x 400G DR4++ (Parallel SMF, 1310nm, 10km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-DR8PP",
+    "Description": "MSA Compatible 800GBase-DR8++ OSFP Open Top 2x 400G DR4++ (Parallel SMF, 1310nm, 10km, Dual MPO-12 APC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2FR4-A",
+    "Description": "Arista OSFP-800G-2FR4 Compatible 800GBase-2x FR4 OSFP Open Finned Top 2x 400G FR4 (SMF, 1310nm, 2km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-2FR4",
+    "Description": "MSA Compatible 800GBase-2x FR4 OSFP Open Finned Top 2x 400G FR4 (SMF, 1310nm, 2km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "MMS4X50-NM-A",
+    "Description": "Nvidia MMS4X50-NM Compatible 800GBase-2x FR4 OSFP Open Finned Top 2x 400G FR4 (SMF, 1310nm, 2km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2LR4-CLT-A",
+    "Description": "Arista OSFP-800G-2LR4-CLT Compatible 800GBase-2x LR4 OSFP Closed Finned Top 2x 400G LR4 (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, InfiniBand and Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "OSFP-2X400G-LR4-P-CLT-A",
+    "Description": "Juniper OSFP-2X400G-LR4-P-CLT Compatible 800GBase-2x LR4 OSFP Closed Finned Top 2x 400G LR4 (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, InfiniBand and Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top",
+    "Finished Good Part Number": "AN-OSFP-CLT-800G-2LR4-ETH",
+    "Description": "MSA OSFP-CLT-800G-2LR4 Compatible 800GBase-2x LR4 OSFP Closed Finned Top 2x 400G LR4 (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, InfiniBand and Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "OSFP-800G-2LR4-A",
+    "Description": "Arista OSFP-800G-2LR4 Compatible 800GBase-2x LR4 OSFP Open Finned Top 2x 400G LR4 (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-2LR4",
+    "Description": "MSA Compatible 800GBase-2x LR4 OSFP Open Finned Top 2x 400G LR4 (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "QSFP-DD",
+    "Finished Good Part Number": "QDD-2X400G-DR4-P-A",
+    "Description": "Juniper QDD-2X400G-DR4-P Compatible 800GBase-DR8 QSFP-DD 2x 400G DR4 (Parallel SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "QSFP-DD",
+    "Finished Good Part Number": "AN-QDD-800G-DR8-ETH",
+    "Description": "MSA QDD-800G-DR8-ETH-5 Compatible 800GBase-DR8 QSFP-DD 2x 400G DR4 (Parallel SMF, 1310nm, 500m, Dual MPO-12 APC, DDM, C-Temp, Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "QSFP-DD",
+    "Finished Good Part Number": "QDD-2X400G-FR4-P-A",
+    "Description": "Juniper QDD-2X400G-FR4-P Compatible 800GBase-2x FR4 QSFP-DD Transceiver (SMF, 1271,1291,1311 and 1331nm, 2km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "QSFP-DD",
+    "Finished Good Part Number": "AN-QDD-800G-2FR4",
+    "Description": "MSA QDD-800G-2FR4 Compatible 800GBase-2x FR4 QSFP-DD Transceiver (SMF, 1271,1291,1311 and 1331nm, 2km, Dual Duplex LC, DDM, C-Temp, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "QSFP-DD",
+    "Finished Good Part Number": "QDD-2X400G-LR4-P-A",
+    "Description": "Juniper QDD-2X400G-LR4-P Compatible 800GBase-2x LR4 QSFP-DD Transceiver (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "800G",
+    "Form Factor": "QSFP-DD",
+    "Finished Good Part Number": "AN-QDD-800G-2LR4-ETH",
+    "Description": "MSA QDD-800G-2LR4-ETH Compatible 800GBase-2x LR4 QSFP-DD Transceiver (SMF, 1271nm-1331nm, 10km, Dual Duplex LC, DDM, C-Temp, Ethernet, CMIS 5.0)"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Closed Finned Top",
+    "Finished Good Part Number": "MCP4Y10-N00A-CLT-A",
+    "Description": "0.5m Nvidia MCP4Y10-N00A-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to OSFP Closed Finned Top (Passive Twinax Copper, PVC, InfiniBand NDR and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Closed Finned Top",
+    "Finished Good Part Number": "MCP4Y10-N001-CLT-A",
+    "Description": "1m Nvidia MCP4Y10-N010-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to OSFP Closed Finned Top (Passive Twinax Copper, PVC, InfiniBand NDR and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Closed Finned Top",
+    "Finished Good Part Number": "MCP4Y10-N01A-CLT-A",
+    "Description": "1.5m Nvidia MCP4Y10-N01A-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to OSFP Closed Finned Top (Passive Twinax Copper, PVC, InfiniBand NDR and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Closed Finned Top",
+    "Finished Good Part Number": "MCP4Y10-N002-CLT-A",
+    "Description": "2m Nvidia MCP4Y10-N002-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to OSFP Closed Finned Top (Passive Twinax Copper, HAIRTAIL+, InfiniBand NDR and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Closed Finned Top ",
+    "Finished Good Part Number": "MCP4Y10-N02A-CLT-A",
+    "Description": "2.5m Nvidia MCP4Y10-N02A-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to OSFP Closed Finned Top (Passive Twinax Copper, HAIRTAIL+, InfiniBand NDR and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Closed Finned Top ",
+    "Finished Good Part Number": "MCP4Y10-N003-CLT-A",
+    "Description": "3m Nvidia MCP4Y10-N003-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to OSFP Closed Finned Top (Passive Twinax Copper, HAIRTAIL+, InfiniBand NDR and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G-CLT-4O-FLT-P-1M",
+    "Description": "1m MSA Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G-CLT-4O-FLT-P-1P5M",
+    "Description": "1.5m MSA Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G-CLT-4O-FLT-P-2M",
+    "Description": "2m MSA Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G-CLT-4O-FLT-P-2P5M",
+    "Description": "2.5m MSA Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G-CLT-4O-FLT-P-3M",
+    "Description": "3m MSA Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y50-N001-CLT-A",
+    "Description": "1m Nvidia MCP7Y50-N001-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y50-N01A-CLT-A",
+    "Description": "1.5m Nvidia MCP7Y50-N01A-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y50-N002-CLT-A",
+    "Description": "2m Nvidia MCP7Y50-N002-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y50-N02A-CLT-A",
+    "Description": "2.5m Nvidia MCP7Y50-N02A-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Closed Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y50-N003-CLT-A",
+    "Description": "3m Nvidia MCP7Y50-N003-CLT Compatible 800GBase-DAC OSFP Closed Finned Top to 4x 200G OSFP Flat Top Breakout (Passive Twinax Copper, HAIRTAIL+, CMIS 5.0, InfiniBand NDR200 and Eth) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G2O-P-0.5M",
+    "Description": "0.5m MSA Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G2O-P-1M",
+    "Description": "1m MSA Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G2O-P-1.5M",
+    "Description": "1.5m MSA Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G2O-P-2M",
+    "Description": "2m MSA Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G2O-P-2.5M",
+    "Description": "2.5m MSA Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G2O-P-3M",
+    "Description": "3m MSA Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y00-N00A-A",
+    "Description": "0.5m Nvidia MCP7Y00-N00A Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y00-N001-A",
+    "Description": "1m Nvidia MCP7Y00-N001 Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y00-N01A-A",
+    "Description": "1.5m Nvidia MCP7Y00-N01A Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y00-N002-A",
+    "Description": "2m Nvidia MCP7Y00-N002 Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y00-N02A-A",
+    "Description": "2.5m Nvidia MCP7Y00-N02A Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCP7Y00-N003-A",
+    "Description": "3m Nvidia MCP7Y00-N003 Compatible 800GBase-DAC OSFP Open Finned Top to 2x 400G OSFP Flat Top Breakout (Passive Twinax Copper, PVC, IB NDR and Ethernet) Direct Attach Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G4O-ACC-3M",
+    "Description": "3m MSA Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G4O-ACC-3.5M",
+    "Description": "3.5m MSA Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G4O-ACC-4M",
+    "Description": "4m MSA Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G4O-ACC-4.5M",
+    "Description": "4.5m MSA Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "AN-O800G4O-ACC-5M",
+    "Description": "5m MSA Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCA7J70-N003-A",
+    "Description": "3m Nvidia MCA7J70-N003 Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, InfiniBand HDR & Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCA7J70-N003A-A",
+    "Description": "3.5m Nvidia MCA7J70-N004 Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, InfiniBand HDR & Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCA7J70-N004-A",
+    "Description": "4m Nvidia MCA7J70-N004 Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, InfiniBand HDR & Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCA7J70-N004A-A",
+    "Description": "4.5m Nvidia MCA7J70-N004 Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, InfiniBand HDR & Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Flat Top",
+    "Finished Good Part Number": "MCA7J70-N005-A",
+    "Description": "5m Nvidia MCA7J70-N005 Compatible 800GBase-ACC OSFP Open Finned Top to 4x 200G OSFP Flat Top Breakout (Active Twinax Copper, PVC, InfiniBand HDR & Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-ACC-3M",
+    "Description": "3m MSA Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR and Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-ACC-3.5M",
+    "Description": "3.5m MSA Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR and Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-ACC-4M",
+    "Description": "4m MSA Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR and Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-ACC-4.5M",
+    "Description": "4.5m MSA Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR and Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-ACC-5M",
+    "Description": "5m MSA Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR and Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "MCA4J80-N003-A",
+    "Description": "3m Nvidia Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active) ACC, up to 5m, Nvidia Compatible"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "MCA4J80-N003A-A",
+    "Description": "3.5m Nvidia MCA4J80-N003 Compatible 800GBase-ACCOSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR Ports) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "MCA4J80-N004-A",
+    "Description": "4m Nvidia MCA4J80-N004 Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR Ports) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "MCA4J80-N004A-A",
+    "Description": "4.5m Nvidia MCA4J80-N003 Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR Ports) Active Copper Cable"
+  },
+  {
+    "Product Type": "ACC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "MCA4J80-N005-A",
+    "Description": "5m Nvidia MCA4J80-N005 Compatible 800GBase-ACC OSFP Open Finned Top to OSFP Open Finned Top (Active Twinax Copper, PVC, IB Twin NDR and Ethernet) Active Copper Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-3M-ETH",
+    "Description": "3m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-5M-ETH",
+    "Description": "5m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-7M-ETH",
+    "Description": "7m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-9M-ETH",
+    "Description": "9m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-10M-ETH",
+    "Description": "10m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-12M-ETH",
+    "Description": "12m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-15M-ETH",
+    "Description": "15m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "800G",
+    "Form Factor": "OSFP Open Finned Top to OSFP Open Finned Top",
+    "Finished Good Part Number": "AN-O800G-FIN-AOC-30M-ETH",
+    "Description": "30m MSA Compatible 800GBase-AOC OSFP Open Finned Top to OSFP Open Finned Top (MMF, 850nm, LSZH, Ethernet) Active Optical Cable"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) ",
+    "Finished Good Part Number": "AN-Q400G-FLT-VR4",
+    "Description": "MSA Compatible 400GBase-VR4 QSFP112 Flat Top (RHS) Transceiver (MMF, 850nm, 30m OM3 / 50m OM4, MPO-12 APC, DDM, C-Temp, CMIS 5.0, Ethernet)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) ",
+    "Finished Good Part Number": "AN-Q112-FLT-400G-SR4",
+    "Description": "MSA Compatible 400GBase-SR4 QSFP112 Flat Top (RHS) Transceiver (Parallel MMF, 850nm, 70m OM3, 100m OM4, MPO-12 APC, DDM, C-Temp, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) ",
+    "Finished Good Part Number": "MMA1Z00-NS400-A",
+    "Description": "Nvidia MMA1Z00-NS400 Compatible 400GBase-SR4 QSFP112 Flat Top (RHS) Transceiver (Parallel MMF, 850nm, 70m OM3, 100m OM4, MPO-12 APC, DDM, C-Temp, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP112 Flat Top (RHS)",
+    "Finished Good Part Number": "AN-O112-400G-DR4",
+    "Description": "MSA Compatible 400GBase-DR4 OSFP112 Flat Top (RHS) Transceiver (Parallel SMF, 1310nm, 500m, MPO-12 APC, DDM, C-Temp, Ethernet, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) ",
+    "Finished Good Part Number": "AN-Q112-FLT-400G-DR4",
+    "Description": "MSA AN-Q112-FLT-400G-DR4 Compatible 400GBase-DR4 QSFP112 Flat Top (RHS) Transceiver (Parallel SMF, 1310nm, 500m, MPO-12 APC, DDM, C-Temp, IB and Eth, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) ",
+    "Finished Good Part Number": "MMS1X00-NS400-A",
+    "Description": "Nvidia MMS1X00-NS400 Compatible 400GBase-DR4 QSFP112 Flat Top (RHS) Transceiver (Parallel SMF, 1310nm, 500m, MPO-12 APC, DDM, C-Temp, IB and Eth, CMIS 5.2)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP112 Flat Top (RHS)",
+    "Finished Good Part Number": "MMA4Z00-NS400-A",
+    "Description": "Nvidia MMA4Z00-NS400 Compatible 400GBase-SR4 OSFP112 Flat Top (RHS) Transceiver (MMF, 850nm, 30m OM3/50m OM4, MPO-12 APC, DDM, C-Temp, IB NDR and Ethernet, CMIS 4.0 or above)"
+  },
+  {
+    "Product Type": "Optic",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP112 Flat Top (RHS)",
+    "Finished Good Part Number": "MMS4X00-NS400-A",
+    "Description": "Nvidia MMS4X00-NS400 Compatible 400GBase-DR4 OSFP112 Flat Top (RHS) Transceiver (Parallel SMF, 1310nm, 500m, MPO-12 APC, DDM, C-Temp, IB and Eth, CMIS 5.2)"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "AN-O400G2Q56-DAC-1M",
+    "Description": "1m MSA Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, Ethernet) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "AN-O400G2Q56-DAC-1.5M",
+    "Description": "1.5m MSA Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, Ethernet) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "AN-O400G2Q56-DAC-2M",
+    "Description": "2m MSA Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, Ethernet) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "AN-O400G2Q56-DAC-3M",
+    "Description": "3m MSA Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, Ethernet) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "MCP7Y60-H001-A",
+    "Description": "1m Nvidia MCP7Y60-H001 Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, IB HDR) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "MCP7Y60-H01A-A",
+    "Description": "1.5m Nvidia MCP7Y60-H01A Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, IB HDR) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "MCP7Y60-H002-A",
+    "Description": "2m Nvidia MCP7Y60-H002 Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, IB HDR, CMIS 5.2) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Open Finned Top to QSFP56",
+    "Finished Good Part Number": "MCP7Y60-H003-A",
+    "Description": "3m Nvidia MCP7Y60-H003 Compatible 400GBase-DAC OSFP Open Finned Top to 2x 200G QSFP56 Breakout (Passive Twinax Copper, PVC, IB HDR) Direct Attach  Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Flat Top to QSFP-DD",
+    "Finished Good Part Number": "OSFP400G-FLT-QDD-NVAN-CU-1.5M-A",
+    "Description": "1.5m, Nvidia to Arista Compatible 400GBase-DAC OSFP Flat Top to QSFP-DD (Passive Twinax Copper, Braided Mesh, 8x 50G PAM4, CMIS 4.0, C-Temp) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Flat Top to QSFP-DD",
+    "Finished Good Part Number": "OSFP400G-FLT-QDD-NVAN-CU-I-1.5M-A",
+    "Description": "1.5m, Nvidia to Arista Compatible 400GBase-DAC OSFP Flat Top to QSFP-DD (Passive Twinax Copper, Braided Mesh, 8x 50G PAM4, CMIS 4.0, I-Temp) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Flat Top to QSFP-DD",
+    "Finished Good Part Number": "OSFP400G-FLT-QDD-NVAN-CU-2M-A",
+    "Description": "2m, Nvidia to Arista Compatible 400GBase-DAC OSFP Flat Top to QSFP-DD (Passive Twinax Copper, Braided Mesh, 8x 50G PAM4, CMIS 4.0, C-Temp) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Flat Top to QSFP-DD",
+    "Finished Good Part Number": "OSFP400G-FLT-QDD-NVAN-CU-I-2M-A",
+    "Description": "2m, Nvidia to Arista Compatible 400GBase-DAC OSFP Flat Top to QSFP-DD (Passive Twinax Copper, Braided Mesh, 8x 50G PAM4, CMIS 4.0, I-Temp) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Flat Top to QSFP-DD",
+    "Finished Good Part Number": "OSFP400G-FLT-QDD-NVAN-CU-3M-A",
+    "Description": "3m, Nvidia to Arista Compatible 400GBase-DAC OSFP Flat Top to QSFP-DD (Passive Twinax Copper, Braided Mesh, 8x 50G PAM4, CMIS 4.0, C-Temp) Direct Attach Cable"
+  },
+  {
+    "Product Type": "DAC",
+    "Data Rate": "400G",
+    "Form Factor": "OSFP Flat Top to QSFP-DD",
+    "Finished Good Part Number": "OSFP400G-FLT-QDD-NVAN-CU-I-3M-A",
+    "Description": "3m, Nvidia to Arista Compatible 400GBase-DAC OSFP Flat Top to QSFP-DD (Passive Twinax Copper, Braided Mesh, 8x 50G PAM4, CMIS 4.0, I-Temp) Direct Attach Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-1M-A",
+    "Description": "1m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-2M-A",
+    "Description": "2m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-3M-A",
+    "Description": "3m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-4M-A",
+    "Description": "4m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-5M-A",
+    "Description": "5m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-6M-A",
+    "Description": "6m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-7M-A",
+    "Description": "7m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-8M-A",
+    "Description": "8m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-9M-A",
+    "Description": "9m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOCQSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-10M-A",
+    "Description": "10m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-12M-A",
+    "Description": "12m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-15M-A",
+    "Description": "15m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-20M-A",
+    "Description": "20m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  },
+  {
+    "Product Type": "AOC",
+    "Data Rate": "400G",
+    "Form Factor": "QSFP112 Flat Top (RHS) to QSFP-DD",
+    "Finished Good Part Number": "Q112-400G-QDD-MXAN-AOC-30M-A",
+    "Description": "30m Nvidia to Arista Multi-Vendor Compatible 400GBase-AOC QSFP112 Flat Top (RHS) to QSFP-DD (MMF, 850nm, up to 50m, LSZH, CMIS 5.2, Eth & IB) Active Optical Cable"
+  }
+]
